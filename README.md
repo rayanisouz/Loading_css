@@ -3,7 +3,7 @@ Olá!
 Para começar bem o ano me desafiei a fazer projetos todos os dias, começando pelo mais básico.
 Esse projeto consiste em uma tela de espera animada, utilizando CSS.
 
-Link do projeto:
+Link do projeto: <br></br>
 <a href="https://loading-css-nu.vercel.app"/>
 <img src="https://img.shields.io/badge/vercel-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" /> 
 </a>
